@@ -1,7 +1,20 @@
 ### Hi there 👋
 
+I am a Computer Science master student at TUM.
+
+While I love almost all topics of computer science, I am especially interested these topics:
+
+ ✨ Computer Vision
+ 
+ ✨ Deep Learning
+ 
+ ✨ Robotics
+ 
+ ✨ Virtual Reality
+ 
+ ✨ Game Development
+
 <!--
-**pneug/pneug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
