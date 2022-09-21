@@ -2,7 +2,7 @@
 
 I am a Computer Science master student at TUM.
 
-While I love almost all topics of computer science, I am especially interested these topics:
+I am especially interested in the topics of:
 
  ✨ Computer Vision
  
