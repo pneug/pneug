@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Science master student at TUM.
+I am a Computer Science master student at TUM, currently in Pittsburgh at Carnegie Mellon University as a Visiting Researcher.
 
 I am especially interested in the topics of:
 
