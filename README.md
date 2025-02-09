@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Science master student at TUM, previously at Carnegie Mellon University as a Visiting Researcher.
+I graduated Master of Computer Science master student at TU Munich, writing my Master's Thesis at Carnegie Mellon University. I'm now working as an Embedded Software Engineer.
 
 I am especially interested in the topics of:
 
@@ -9,6 +9,8 @@ I am especially interested in the topics of:
  ✨ Deep Learning
  
  ✨ Robotics
+ 
+ ✨ Embedded Software Development
  
  ✨ Virtual Reality
  
